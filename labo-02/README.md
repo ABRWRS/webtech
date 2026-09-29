@@ -18,18 +18,19 @@ Vul de eerste twee kolommen in vóór je de pagina opent. Trede: herkomst, speci
 
 | vraag | mijn voorspelling (kleur) | beslissende trede | uitkomst in de browser | juist? |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
-| 9 | | | | |
-| 10 | | | | |
+| 1 | groen | herkomst | groen | juist |
+| 2 | blauw | volgorde | blauw | juist |
+| 3 | rood | specificiteit | rood | juist |
+| 4 | rood | herkomst (.v4 > a werkt niet want a is niet een direct kind van v4)| rood | juist |
+| 5 | blauw | specificiteit | blauw | juist |
+| 6 | blauw | specificiteit | blauw | juist |
+| 7 | rood | herkomst | rood | juist |
+| 8 | blauw | specificiteit of volgorde (weet niet goed welke van de 2) | blauw | juist |
+| 9 | rood | specificiteit (door de !important) | rood | juist |
+| 10 | groen | volgorde/herkomst (de blue word niet gelezen door de fout) | groen | juist |
 
 Bij welke vraag zat je fout, en wat was de reden? (Alles juist? Welke vraag duurde het langst, en waarom?)
+Ik had alles juist maar vraag 5 duurde het langst omdat ik verward was met de 3 classes achter elkaar
 
 ## 4. De nabouw
 
