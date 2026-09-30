@@ -30,12 +30,18 @@ Vul de eerste twee kolommen in vóór je de pagina opent. Trede: herkomst, speci
 | 10 | groen | volgorde/herkomst (de blue word niet gelezen door de fout) | groen | juist |
 
 Bij welke vraag zat je fout, en wat was de reden? (Alles juist? Welke vraag duurde het langst, en waarom?)
+
 Ik had alles juist maar vraag 5 duurde het langst omdat ik verward was met de 3 classes achter elkaar
 
 ## 4. De nabouw
 
 - Welke selector koos je voor de links in de navigatie, en waarom geen class?
+
+Ik koos voor nav a omdat dat makkelijk was en alle links die in de toekomst in de nav er bij komen ook omvat. Ik koos geen class omdat de links en nav geen class hebben.
+
 - Welke regel kostte je het meeste tijd, en wat was uiteindelijk de oorzaak?
+
+De regels met :hover en :focus omdat ik de mooie syntax wou gebruiken
 
 ## 6. Je site
 
