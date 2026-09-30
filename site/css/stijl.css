@@ -1,0 +1,30 @@
+:root {
+  --bg-color: #121212;
+  --text-color: #ffffff;
+  --font-family-base: "JetBrainsMono", monospace;
+  --font-size-base: 16px;
+
+  --accent-color: #01ffdd;
+  --muted-color: #a7a7a7;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: var(--font-family-base);
+}
+
+a {
+    text-decoration: none;
+    color: var(--accent-color);
+
+    &:hover,
+    &:focus {
+        text-decoration: underline;
+        font-weight: bold;
+    }
+}
+
+footer {
+    color: var(--muted-color);
+}

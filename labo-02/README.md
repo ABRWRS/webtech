@@ -46,7 +46,16 @@ De regels met :hover en :focus omdat ik de mooie syntax wou gebruiken.
 ## 6. Je site
 
 - Welke drie waarden staan in je tokenblok, en waarom die?
+
+  --bg-color: #121212;  Omdat ik darkmode makkelijker vind op de ogen.
+  --text-color: #ffffff;
+  --font-family-base: "JetBrainsMono", monospace; Ik vind dit makkelijker om te lezen.
+  --font-size-base: 16px; Omdat ik niet wist welke andere size ik kon toevoegen.
+
+
 - Wat verandert er in je site als je één token wijzigt?
+
+De kleur van de hele pagina
 
 ## Thuis: R2.3 (met AI)
 
