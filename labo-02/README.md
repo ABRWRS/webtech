@@ -41,7 +41,7 @@ Ik koos voor nav a omdat dat makkelijk was en alle links die in de toekomst in d
 
 - Welke regel kostte je het meeste tijd, en wat was uiteindelijk de oorzaak?
 
-De regels met :hover en :focus omdat ik de mooie syntax wou gebruiken
+De regels met :hover en :focus omdat ik de mooie syntax wou gebruiken.
 
 ## 6. Je site
 
